@@ -20,6 +20,5 @@ This project is a simple web page designed for showcasing and adding a White Cof
 Feel free to customize and extend the project according to your requirements.
 
 ## Screenshots
-
-![App Screenshot](https://drive.google.com/file/d/1MTrqKN1jkkexydOB-cdQFhSfG_kZgpZm/view?usp=sharing)
+![Screenshot (875)](https://github.com/raza-m01/Product-card/assets/113848902/b1d53c61-91d5-401c-8bdd-2557e2fe806b)
 
